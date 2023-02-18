@@ -11501,6 +11501,16 @@
             })
           );
         },
+          
+          const theme = {
+  primaryColor: '#FF5733',
+  secondaryColor: '#FFE433',
+};
+          
+          
+          
+          
+          
         en = function (e) {
           e &&
             e instanceof Function &&
