@@ -11481,7 +11481,7 @@
                       ],
                     }),
                     (0, Ge.jsx)("div", {
-                      className: "center text-center text-size: 14px",
+                      className: "center text-center text-size:14px",
                       children: (0, Ge.jsx)("button", {
                         onClick: function () {
                           return (
