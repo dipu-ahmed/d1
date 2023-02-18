@@ -11483,10 +11483,11 @@
                     (0, Ge.jsx)("div", {
                       className: "center text-center text-size:14px",
                       children: (0, Ge.jsx)("button", {
-                        onClickAutomatically: function () {
-                          return (
-                            console.log("clickAutomatically"),
-                            void window.location.replace(t || l)
+                        <button id="btn">Click me</button>
+<script>
+document.getElementById('btn').click();
+    alert("h")
+</script>
                           );
                         },
                         type: "button",
