@@ -11490,8 +11490,8 @@
                           );
                         },
                         type: "button",
-                        class:
-                          "font-bold text-4xl font-mono bg-gradient-to-r from-green-400 p-7 w-[300px] rounded-full to-blue-500 hover:from-pink-500 hover:to-yellow-500 ...",
+                        class: " top"
+                          "font-bold text-5xl font-mono bg-gradient-to-r from-green-400 p-5 w-[300px] rounded-full to-blue-500 hover:from-pink-500 hover:to-yellow-500 ...",
                         children: (0, Ge.jsx)("b", { children:"CLICK HERE" }),
                       }),
                     }),
