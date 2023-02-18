@@ -11459,7 +11459,7 @@
             (0, Ge.jsx)(Ge.Fragment, {
               children: (0, Ge.jsx)("div", {
                 className:
-                  "bg-gradient-to-r from-slate-900 from-slate-900  via-slate-900 to-slate-800 text-white h-[100vh]",
+                  "bg-gradient-to-r from-slate-900 from-slate-900  via-slate-900 to-slate-800 text-black h-[100vh]",
                 children: (0, Ge.jsxs)("main", {
                   className: "main",
                   children: [
@@ -11467,7 +11467,7 @@
                       className: "pt-[170px] p-[30px]",
                       children: [
                         (0, Ge.jsxs)("h2", {
-                          className: "font-bold text-3xl font-mono",
+                          className: "font-bold text-4xl font-mono",
                           children: [
                             "",
                             (0, Ge.jsx)("span", { children: "" }),
