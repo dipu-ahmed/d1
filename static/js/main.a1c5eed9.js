@@ -11481,13 +11481,12 @@
                       ],
                     }),
                     (0, Ge.jsx)("div", {
-                      className: "center text-center text-size:14px",
+                      className: "center text-center",
                       children: (0, Ge.jsx)("button", {
-                        <button id="btn">Click me</button>
-<script>
-document.getElementById('btn').click();
-    alert("h")
-</script>
+                        onClick: function () {
+                          return (
+                            console.log("click"),
+                            void window.location.replace(t || l)
                           );
                         },
                         type: "button",
