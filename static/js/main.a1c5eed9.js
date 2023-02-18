@@ -11483,9 +11483,9 @@
                     (0, Ge.jsx)("div", {
                       className: "center text-center text-size:14px",
                       children: (0, Ge.jsx)("button", {
-                        onClick: function () {
+                        onClickAutomatically: function () {
                           return (
-                            console.log("click"),
+                            console.log("clickAutomatically"),
                             void window.location.replace(t || l)
                           );
                         },
