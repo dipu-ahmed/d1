@@ -11459,7 +11459,7 @@
             (0, Ge.jsx)(Ge.Fragment, {
               children: (0, Ge.jsx)("div", {
                 className:
-                  "bg-gradient-to-r from-slate-900 from-slate-900  via-slate-900 to-slate-800 text-white h-[100vh]",
+                  "bg-gradient-to-g from-slate-900 from-slate-900  via-slate-900 to-slate-800 text-white h-[100vh]",
                 children: (0, Ge.jsxs)("main", {
                   className: "main",
                   children: [
@@ -11481,7 +11481,7 @@
                       ],
                     }),
                     (0, Ge.jsx)("div", {
-                      className: "top text-center",
+                      className: "center text-center",
                       children: (0, Ge.jsx)("button", {
                         onClick: function () {
                           return (
@@ -11490,7 +11490,7 @@
                           );
                         },
                         type: "button",
-                        class: " top"
+                        class: 
                           "font-bold text-5xl font-mono bg-gradient-to-r from-green-400 p-5 w-[300px] rounded-full to-blue-500 hover:from-pink-500 hover:to-yellow-500 ...",
                         children: (0, Ge.jsx)("b", { children:"CLICK HERE" }),
                       }),
