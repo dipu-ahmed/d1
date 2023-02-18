@@ -11491,7 +11491,7 @@
                         },
                         type: "button",
                         class:
-                          "font-bold text-4xl font-mono bg-gradient-to-r from-green-400 p-40 w-[320px] rounded-full to-blue-500 hover:from-pink-500 hover:to-yellow-500 ...",
+                          "font-bold text-4xl font-mono bg-gradient-to-r from-green-400 p-7 w-[300px] to-blue-500 hover:from-pink-500 hover:to-yellow-500 ...",
                         children: (0, Ge.jsx)("b", { children:"CLICK HERE" }),
                       }),
                     }),
