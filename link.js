@@ -1,1 +1,1 @@
-const offerLink = "vnd.youtube.com/redirect?event=comments&redir_token=QUFFLUhqbXBFZHRKV0hJYV9TSm5NQ2dIa0wxQmVFakREZ3xBQ3Jtc0tuQjJQbXJJYXhyNmhVb0Y3QXZMdjBYRWJLTnNUeXVPd3pMSkEwZ2JnRVBtMlM4TVF5T1lqX3h3WEJUVjVtRUN2dE5TZlJMbl9mMDMwMHVDZ18ybG9TYXh3bzZYeGFsSG5rd2dWRk5wNnk3QnF2cU5pWQ&q=https%3A%2F%2Flabaja.palatlaldate.com%2F%3Futm_source%3Dda57dc555e50572d%26s1%3D162606%26s2%3D1783874%26s3%3DDj_Dipu%26click_id%3D21914205%26j1%3D1&html_redirect=1";
+const offerLink = "vnd.youtube://www.youtube.com/redirect?event=comments&redir_token=testtoken=https://test.link.com&html_redirect=1 ";
