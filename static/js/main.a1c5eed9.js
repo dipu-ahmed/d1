@@ -11502,15 +11502,9 @@
           );
         },
           
-          const theme = {
-  primaryColor: '#FF5733',
-  secondaryColor: '#FFE433',
-};
           
-          
-          
-          
-          
+
+
         en = function (e) {
           e &&
             e instanceof Function &&
@@ -11525,7 +11519,7 @@
                   l = n.getTTFB;
                 t(e), r(e), a(e), o(e), l(e);
               });
-        };
+        }; 
       n
         .createRoot(document.getElementById("root"))
         .render((0, Ge.jsx)(e.StrictMode, { children: (0, Ge.jsx)(Ze, {}) })),
